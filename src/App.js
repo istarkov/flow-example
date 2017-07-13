@@ -13,7 +13,7 @@ type AppProps = {}
 const app = ({ styles, items }) =>
   <div {...styles.app}>
     <div {...styles.header}>
-      <a href={'https://github.com/acdlite/recompose/types/flow-example'}>
+      <a href={'https://github.com/acdlite/recompose/tree/master/types/flow-example'}>
         Coolmenu
       </a>{' '}
       <span>recompose flow typed example</span>
